@@ -12,4 +12,4 @@ Debugging:
 
 After completing the level, press any key to move to the next level, the highest level is level 9 as adding any more levels isn't necessary to showcase the functionality of the program.
 
-I made this program as a challenge to design shape transofmations as well as my own algorithm to handle falling pieces within a game format, hence the choice to make a match-3 game.
+I made this program as a challenge to implement shape transformations and animations, as well as my own algorithm to handle falling pieces within a game format, hence the choice to make a match-3 game.
